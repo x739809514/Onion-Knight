@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Weapon
+  - Seasor
+  - Tool
+  - DeadLine
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Player
+  - Weapon
+  - Enemy
+  - skull
+  - TriggerBox
+  - Item
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 1235209317
+    locked: 0
+  - name: frontGround
+    uniqueID: 1627383079
+    locked: 0
+  - name: player
+    uniqueID: 2302777541
+    locked: 0
+  - name: enemy
+    uniqueID: 3171646223
+    locked: 0
+  - name: map
+    uniqueID: 623677675
+    locked: 0
+  - name: layer
+    uniqueID: 616800293
+    locked: 0
